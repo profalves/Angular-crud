@@ -1,0 +1,8 @@
+.header .title-group a {
+  display: inline-flex;
+  align-items: center;
+}
+
+.header .title-group i {
+  margin-right: 10px;
+}
